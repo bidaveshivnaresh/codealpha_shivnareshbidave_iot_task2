@@ -48,12 +48,12 @@ The current status is also displayed on the Serial Monitor.
 ### Motion Detected - LED ON
 
 The PIR sensor detects motion and the LED turns ON.
-![Motion Detected](code_motion_detected_led_on.png)
+![Motion Detected](code/motion_detected_led_on.png)
 
 ### Motion Not Detected - LED OFF
 
 When no motion is detected, the LED turns OFF.
-![Motion Not Detected](code_motion_not_detected_led_off.png)
+![Motion Not Detected](code/motion_not_detected_led_off.png)
 
 ## Code Explanation
 
